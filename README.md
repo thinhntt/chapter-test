@@ -21,10 +21,10 @@
 
 ### Step to run chapter test ###
 
-* Local windows
+* Local windows: Open windows terminal and run commandlines
 1. git clone https://github.com/thinhntt/chapter-test.git
-2. Open terminal on project: cd chapter-test
-3. Run "mvn clean test -P local-windows"
+2. cd chapter-test
+3. mvn clean test -P local-windows
 
 ### Result ###
 Tests run: 7, Failures: 1, Errors: 0, Skipped: 0
