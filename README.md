@@ -23,7 +23,7 @@
 
 * Local windows
 1. git clone https://github.com/thinhntt/chapter-test.git
-2. Open terminal on project
+2. Open terminal on project: cd chapter-test
 3. Run "mvn clean test -P local-windows"
 
 ### Result ###
