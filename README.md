@@ -10,7 +10,6 @@
 * Java 8 (recommend)
 * Maven
 * Chrome 96
-* Allure report
 
 ### Project structure ###
 1. Java source: src/main/java/com/thinh/nguyen
