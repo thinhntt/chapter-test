@@ -5,6 +5,7 @@
 
 ### How do I get set up? ###
 
+* Windows
 * Docker
 * Java 8 (recommend)
 * Maven
