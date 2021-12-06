@@ -19,14 +19,12 @@
 - test suite xml: src/test/resources/suite
 - chrome driver (windows): src/test/resources/chromedriver.exe
 
-### Commandline to run test ###
+### Step to run chapter test ###
 
-* Local
-1. Open terminal on project
-2. Run cmd "mvn clean test -P local-windows"
-
-* Docker
-1. Open terminal on project
+* Local windows
+1. git clone https://github.com/thinhntt/chapter-test.git
+2. Open terminal on project
+3. Run "mvn clean test -P local-windows"
 
 ### Result ###
 Tests run: 7, Failures: 1, Errors: 0, Skipped: 0
