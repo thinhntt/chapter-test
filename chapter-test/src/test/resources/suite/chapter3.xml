@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Chapter-3: Automate 'Search Product' functionality of an e-commerce website"  parallel="false" verbose="2">
+    <test name="Automate 'Search Product' Functionality of an e-commerce website with Selenium">
+        <classes>
+            <class name ="com.thinh.nguyen.chapter3.testcase1.SearchProduct" />
+        </classes>
+    </test>
+</suite>

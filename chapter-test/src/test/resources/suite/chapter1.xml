@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Chapter-1: Automate 'User Registration' of an website with Selenium"  parallel="false" verbose="2">
+    <test name="Automate User Registration Process: Unsuccessfully">
+        <classes>
+            <class name ="com.thinh.nguyen.chapter1.testcase1.VolunteerSignUpUnsuccessfully" />
+        </classes>
+    </test>
+    <test name="Verify invalid email address error">
+        <classes>
+            <class name ="com.thinh.nguyen.chapter1.testcase2.VerifyInvalidEmailWithoutAt" />
+            <class name ="com.thinh.nguyen.chapter1.testcase2.VerifyInvalidEmailWithoutSuffixDomain" />
+            <class name ="com.thinh.nguyen.chapter1.testcase2.VerifyInvalidEmailWithoutSuffixDomain" />
+        </classes>
+    </test>
+    <test name="Verify Drag and Drop ability on website">
+        <classes>
+            <class name ="com.thinh.nguyen.chapter1.testcase3.DragAnDrop" />
+        </classes>
+    </test>
+</suite>

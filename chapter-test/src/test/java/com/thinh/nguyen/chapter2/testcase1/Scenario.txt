@@ -1,0 +1,10 @@
+Create user successfully:
+1. Open link http://practice.automationtesting.in/
+2. Select "Selenium Ruby" add to basket
+3. Go to Cart
+4. Check product is selected: "Selenium Ruby"
+5. Proceed Check Out
+6. Enter Delivery Information
+7. Proceed Order
+8. Check your order status by verify message: "Thank you. Your order has been received."
+9. Take a screenshot

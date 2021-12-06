@@ -1,0 +1,18 @@
+>> Verify invalid email address error
+
+Create user unsuccessfully with invalid email (without @):
+1. Open this url: http://testautomationpractice.blogspot.com/
+2. Switch to signup frame
+3. Enter account information in Volunteer Sign Up section.
+4. Enter invalid email: amknow
+5. Click on Submit button.
+6. Verify validation message for invalid email
+
+
+Create user unsuccessfully with invalid email has @ but without suffix domain:
+1. Open this url: http://testautomationpractice.blogspot.com/
+2. Switch to signup frame
+3. Enter account information in Volunteer Sign Up section.
+4. Enter invalid email: amknow@know
+5. Click on Submit button.
+6. Verify validation message for invalid email

@@ -1,0 +1,8 @@
+Verify that Total Price is reflecting correctly if user changes quantity on 'Shopping Cart Summary' Page
+
+1. Open link http://practice.automationtesting.in/
+2. Hover mouse to search box
+3. Enter "Selenium" and press Enter
+4. Validate the result – “Selenium Ruby”
+5. Clear search box and search for “Python”
+6. Validate the result – “Sorry, nothing found.”

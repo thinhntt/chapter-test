@@ -1,0 +1,9 @@
+Test Case 1 - Automate End to End Buy Order functionality
+
+Create user unsuccessfully:
+1. Open this url: http://testautomationpractice.blogspot.com/
+2. Enter account information in Volunteer Sign Up section.
+3. Click on Submit button.
+4. Validate that user is failed to create by check message.
+
+Reason: The result storage capacity has been reached for this form. Your result was not created. Please contact the form owner.

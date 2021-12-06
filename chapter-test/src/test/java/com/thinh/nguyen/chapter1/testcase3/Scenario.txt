@@ -1,0 +1,6 @@
+Verify Drag and Drop ability on website:
+
+1. Open this url: http://testautomationpractice.blogspot.com/
+2. Check drag and drop element available.
+3. Drag item and drop to element.
+4. Verify item is dropped by checking "Dropped!" text.

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Chapter-2 : Automate 'Buy Product' functionality of an e-commerce website with Selenium"  parallel="false" verbose="2">
+    <test name="Automate End to End Buy Order functionality">
+        <classes>
+            <class name ="com.thinh.nguyen.chapter2.testcase1.BuyProduct" />
+        </classes>
+    </test>
+    <test name="Verify that Total Price is reflecting correctly if user changes quantity on 'Shopping Cart Summary' Page">
+        <classes>
+            <class name ="com.thinh.nguyen.chapter2.testcase2.BuyProducts" />
+        </classes>
+    </test>
+</suite>
