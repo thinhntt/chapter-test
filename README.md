@@ -29,4 +29,4 @@
 ### Result ###
 Tests run: 7, Failures: 1, Errors: 0, Skipped: 0
 
-Note: A failure or additional scenario in testcase 2 for invalid email without suffix domain: amknow@know
+Note: A failure of additional scenario in testcase 2 for invalid email without suffix domain: amknow@know
